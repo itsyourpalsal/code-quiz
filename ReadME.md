@@ -7,4 +7,4 @@ A Javascript coding quiz with 5 questions. Each correct answer gives you 10 poin
 
 # Deployed Website
 
- https://itsyourpalsal.github.io/code-quiz/
+https://itsyourpalsal.github.io/code-quiz/
